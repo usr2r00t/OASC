@@ -7,7 +7,9 @@
 <p>
   Enter your API keys for all third party services and set the paths after installing <a href="https://exiftool.org/">exiftool</a>, <a href="https://github.com/sherlock-project/sherlock">sherlock</a> and <a href="https://github.com/SusmithKrishnan/torghost">torghost</a>
 </p>
+
 <h3>API Keys</h3>
+
 <ul>
 <li><a href="https://platform.openai.com/account/api-keys">OpenAI</a></li>
 <li><a href="https://app.numlookupapi.com/api-keys">Numlookup</a></li>
